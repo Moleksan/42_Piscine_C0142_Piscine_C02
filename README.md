@@ -1,4 +1,4 @@
-# 42_Piscine_C0142_Piscine_C02
+# 42_Piscine_C02
 
 C Piscine C 02 – Exercises
 This repository contains my solutions to the C Piscine C 02 module from 42 School. These exercises primarily focus on string manipulation and cover topics such as copying strings, checking string content, and transforming characters in various ways. Below is an overview of the tasks I have completed, with a brief description of each exercise and what concepts were learned.
