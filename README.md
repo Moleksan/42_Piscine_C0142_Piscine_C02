@@ -14,7 +14,7 @@ Prototype:
 
 Key Learnings:  
 
-    Understanding how to manipulate and copy strings in C using pointers.
+  Understanding how to manipulate and copy strings in C using pointers.
 
 - Exercise 01: ft_strncpy
 Objective: Implement ft_strncpy, which copies up to n characters from src to dest.  
@@ -25,7 +25,7 @@ Objective: Implement ft_strncpy, which copies up to n characters from src to des
 
 Key Learnings:
  
-    Handling edge cases where strings are shorter than n and learning to pad with null bytes.
+  Handling edge cases where strings are shorter than n and learning to pad with null bytes.
 
 - Exercise 02: ft_str_is_alpha
 Objective: Create a function ft_str_is_alpha that checks if a string contains only alphabetical characters.  
@@ -35,7 +35,8 @@ Prototype:
        int ft_str_is_alpha(char *str);
 
 Key Learnings:  
-      Checking each character of a string using ASCII values to determine if they are letters.
+  
+  Checking each character of a string using ASCII values to determine if they are letters.
 
 - Exercise 03: ft_str_is_numeric
 Objective: Implement a function ft_str_is_numeric to check if a string contains only numeric characters.
@@ -46,7 +47,7 @@ Prototype:
 
 Key Learnings:
 
-            Working with character sets to check for numeric digits.
+  Working with character sets to check for numeric digits.
 
 - Exercise 04: ft_str_is_lowercase
 Objective: Write a function ft_str_is_lowercase to verify if a string contains only lowercase letters.
@@ -57,7 +58,7 @@ Prototype:
 
 Key Learnings:
   
-    Understanding and checking the range of lowercase ASCII characters.
+  Understanding and checking the range of lowercase ASCII characters.
 
 - Exercise 05: ft_str_is_uppercase
 Objective: Implement ft_str_is_uppercase to check if a string contains only uppercase letters. 
@@ -68,7 +69,7 @@ Prototype:
 
 Key Learnings:
 
-    Learning to verify the range of uppercase characters in ASCII.
+  Learning to verify the range of uppercase characters in ASCII.
 
 - Exercise 06: ft_str_is_printable
 Objective: Create ft_str_is_printable to determine if a string contains only printable characters. 
@@ -99,7 +100,7 @@ Prototype:
 
 Key Learnings:
 
-        Understanding case conversion in ASCII.  
+  Understanding case conversion in ASCII.  
 
 - Exercise 09: ft_strcapitalize
 Objective: Create ft_strcapitalize, a function that capitalizes the first letter of each word and lowers all others.  
